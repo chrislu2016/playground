@@ -1,0 +1,11 @@
+---
+title: "Shiny Testing Notebook"
+output: html_notebook
+---
+
+# Specify panel of mouse clicking while using ggplot facet: panelvar1
+
+```{r, eval=FALSE}
+input$...$panelvar1
+```
+
